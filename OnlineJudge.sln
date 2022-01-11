@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1684
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InternetBandwith820", "InternetBandwith820/InternetBandwith820.vcxproj", "{317F678E-AC30-47AE-838D-79CCB59F4B78}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InternetBandwidth820", "InternetBandwith820\InternetBandwith820.vcxproj", "{317F678E-AC30-47AE-838D-79CCB59F4B78}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatrolRobot1600", "PatrolRobot1600\PatrolRobot1600.vcxproj", "{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{317F678E-AC30-47AE-838D-79CCB59F4B78}.Release|x64.Build.0 = Release|x64
 		{317F678E-AC30-47AE-838D-79CCB59F4B78}.Release|x86.ActiveCfg = Release|Win32
 		{317F678E-AC30-47AE-838D-79CCB59F4B78}.Release|x86.Build.0 = Release|Win32
+		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Debug|x64.ActiveCfg = Debug|x64
+		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Debug|x64.Build.0 = Debug|x64
+		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Debug|x86.ActiveCfg = Debug|Win32
+		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Debug|x86.Build.0 = Debug|Win32
+		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Release|x64.ActiveCfg = Release|x64
+		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Release|x64.Build.0 = Release|x64
+		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Release|x86.ActiveCfg = Release|Win32
+		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
