@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InternetBandwidth820", "Int
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatrolRobot1600", "PatrolRobot1600\PatrolRobot1600.vcxproj", "{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NonBoringSequences1608", "NonBoringSequences1608\NonBoringSequences1608.vcxproj", "{9DA59F4F-7EE9-4431-A094-2172E3A83064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Release|x64.Build.0 = Release|x64
 		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Release|x86.ActiveCfg = Release|Win32
 		{8968D543-E9DC-47D5-9B59-DA0CE7E3B667}.Release|x86.Build.0 = Release|Win32
+		{9DA59F4F-7EE9-4431-A094-2172E3A83064}.Debug|x64.ActiveCfg = Debug|x64
+		{9DA59F4F-7EE9-4431-A094-2172E3A83064}.Debug|x64.Build.0 = Debug|x64
+		{9DA59F4F-7EE9-4431-A094-2172E3A83064}.Debug|x86.ActiveCfg = Debug|Win32
+		{9DA59F4F-7EE9-4431-A094-2172E3A83064}.Debug|x86.Build.0 = Debug|Win32
+		{9DA59F4F-7EE9-4431-A094-2172E3A83064}.Release|x64.ActiveCfg = Release|x64
+		{9DA59F4F-7EE9-4431-A094-2172E3A83064}.Release|x64.Build.0 = Release|x64
+		{9DA59F4F-7EE9-4431-A094-2172E3A83064}.Release|x86.ActiveCfg = Release|Win32
+		{9DA59F4F-7EE9-4431-A094-2172E3A83064}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
