@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UpdatingADictionary12504", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlaceTheGuards11080", "PlaceTheGuards11080\PlaceTheGuards11080.vcxproj", "{53C7F6FC-A4BC-4CF4-9DA9-8D1162BE9322}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HowMany_986", "HowMany_986\HowMany_986.vcxproj", "{CF687687-6DE2-4C8F-84F5-0AADB343F561}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{53C7F6FC-A4BC-4CF4-9DA9-8D1162BE9322}.Release|x64.Build.0 = Release|x64
 		{53C7F6FC-A4BC-4CF4-9DA9-8D1162BE9322}.Release|x86.ActiveCfg = Release|Win32
 		{53C7F6FC-A4BC-4CF4-9DA9-8D1162BE9322}.Release|x86.Build.0 = Release|Win32
+		{CF687687-6DE2-4C8F-84F5-0AADB343F561}.Debug|x64.ActiveCfg = Debug|x64
+		{CF687687-6DE2-4C8F-84F5-0AADB343F561}.Debug|x64.Build.0 = Debug|x64
+		{CF687687-6DE2-4C8F-84F5-0AADB343F561}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF687687-6DE2-4C8F-84F5-0AADB343F561}.Debug|x86.Build.0 = Debug|Win32
+		{CF687687-6DE2-4C8F-84F5-0AADB343F561}.Release|x64.ActiveCfg = Release|x64
+		{CF687687-6DE2-4C8F-84F5-0AADB343F561}.Release|x64.Build.0 = Release|x64
+		{CF687687-6DE2-4C8F-84F5-0AADB343F561}.Release|x86.ActiveCfg = Release|Win32
+		{CF687687-6DE2-4C8F-84F5-0AADB343F561}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
