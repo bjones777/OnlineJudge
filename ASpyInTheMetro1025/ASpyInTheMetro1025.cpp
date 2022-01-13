@@ -214,7 +214,6 @@ int Solver::FindNextDeparture(int Station, int Time, Direction dir)
     }
     assert(dir == Direction::DECREASING);
     return FindNextDeparture(Station, Time, DepartureTimes2, CumulativeTravelTimesDecreasing.at(Station));
-
 }
 
 int Solver::FindNextDeparture(int Station, int Time, const vector<int>& DepartureTimes, int TravelTimeToStation)
