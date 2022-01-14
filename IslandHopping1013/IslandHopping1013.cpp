@@ -83,18 +83,22 @@ double Solver::FindAverage()
     double inhabitantsSum = 0.0;
     double weightedSum = 0.0;
 
+    int VisitedCount = 0;
     pq.push(Entry(0,0,0));
     while (!pq.empty())
     {
         Entry e = pq.top();
         pq.pop();
         if(Visited[e.CurrentIslandIndex]) continue;
+        ++VisitedCount;
         Visited[e.CurrentIslandIndex] = true;
         
         Island& island = Islands[e.CurrentIslandIndex];
         inhabitantsSum += island.Inhabitants;
 
         weightedSum += sqrt(e.MaxDistanceSquared) * island.Inhabitants;
+
+        if(VisitedCount == (int)Islands.size()) break;
 
         for (int i = 0; i < (int)Islands.size(); ++i)
         {
@@ -104,7 +108,7 @@ double Solver::FindAverage()
         }
     }
     //Sanity Check to make sure we visited every island
-    assert(count(Visited.begin(),Visited.end(),true) == Visited.size());
+    assert(VisitedCount == (int)Islands.size());
     return weightedSum/inhabitantsSum;
 }
 
