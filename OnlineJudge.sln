@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IslandHopping1013", "Island
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CriticalLinks796", "CriticalLinks796\CriticalLinks796.vcxproj", "{82709CAD-58AC-4637-BA86-7D56444AD954}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zones1047", "Zones1047\Zones1047.vcxproj", "{07612476-9008-4BC6-A9BA-F89EBFDB135D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{82709CAD-58AC-4637-BA86-7D56444AD954}.Release|x64.Build.0 = Release|x64
 		{82709CAD-58AC-4637-BA86-7D56444AD954}.Release|x86.ActiveCfg = Release|Win32
 		{82709CAD-58AC-4637-BA86-7D56444AD954}.Release|x86.Build.0 = Release|Win32
+		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Debug|x64.ActiveCfg = Debug|x64
+		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Debug|x64.Build.0 = Debug|x64
+		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Debug|x86.ActiveCfg = Debug|Win32
+		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Debug|x86.Build.0 = Debug|Win32
+		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Release|x64.ActiveCfg = Release|x64
+		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Release|x64.Build.0 = Release|x64
+		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Release|x86.ActiveCfg = Release|Win32
+		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
