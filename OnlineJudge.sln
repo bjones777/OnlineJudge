@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CriticalLinks796", "Critica
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zones1047", "Zones1047\Zones1047.vcxproj", "{07612476-9008-4BC6-A9BA-F89EBFDB135D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DegreesOfSeparation1056", "DegreesOfSeparation1056\DegreesOfSeparation1056.vcxproj", "{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Release|x64.Build.0 = Release|x64
 		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Release|x86.ActiveCfg = Release|Win32
 		{07612476-9008-4BC6-A9BA-F89EBFDB135D}.Release|x86.Build.0 = Release|Win32
+		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Debug|x64.ActiveCfg = Debug|x64
+		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Debug|x64.Build.0 = Debug|x64
+		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Debug|x86.Build.0 = Debug|Win32
+		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Release|x64.ActiveCfg = Release|x64
+		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Release|x64.Build.0 = Release|x64
+		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Release|x86.ActiveCfg = Release|Win32
+		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

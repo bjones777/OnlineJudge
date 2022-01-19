@@ -192,7 +192,9 @@ int main()
         {
             break;
         }
-        cout << "Case Number  " << TC << '\n';        go(N,C);    }
+        cout << "Case Number  " << TC << '\n';
+        go(N,C);
+    }
 
     return 0;
 }
