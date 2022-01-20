@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zones1047", "Zones1047\Zone
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DegreesOfSeparation1056", "DegreesOfSeparation1056\DegreesOfSeparation1056.vcxproj", "{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SillySort1016", "SillySort1016\SillySort1016.vcxproj", "{D38304C0-7D6F-493C-86FB-2C8D31CCD877}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Release|x64.Build.0 = Release|x64
 		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Release|x86.ActiveCfg = Release|Win32
 		{97BD6F81-9D36-4F84-87A0-DEC0EC5A4CB6}.Release|x86.Build.0 = Release|Win32
+		{D38304C0-7D6F-493C-86FB-2C8D31CCD877}.Debug|x64.ActiveCfg = Debug|x64
+		{D38304C0-7D6F-493C-86FB-2C8D31CCD877}.Debug|x64.Build.0 = Debug|x64
+		{D38304C0-7D6F-493C-86FB-2C8D31CCD877}.Debug|x86.ActiveCfg = Debug|Win32
+		{D38304C0-7D6F-493C-86FB-2C8D31CCD877}.Debug|x86.Build.0 = Debug|Win32
+		{D38304C0-7D6F-493C-86FB-2C8D31CCD877}.Release|x64.ActiveCfg = Release|x64
+		{D38304C0-7D6F-493C-86FB-2C8D31CCD877}.Release|x64.Build.0 = Release|x64
+		{D38304C0-7D6F-493C-86FB-2C8D31CCD877}.Release|x86.ActiveCfg = Release|Win32
+		{D38304C0-7D6F-493C-86FB-2C8D31CCD877}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
