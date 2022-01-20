@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheMailboxManufacturersProb
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Passwords628", "Passwords628\Passwords628.vcxproj", "{732B25D1-4B87-4145-B238-49563E64A4BB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CoinChange674", "CoinChange674\CoinChange674.vcxproj", "{776142CB-BB64-482B-90DC-160ED893F854}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{732B25D1-4B87-4145-B238-49563E64A4BB}.Release|x64.Build.0 = Release|x64
 		{732B25D1-4B87-4145-B238-49563E64A4BB}.Release|x86.ActiveCfg = Release|Win32
 		{732B25D1-4B87-4145-B238-49563E64A4BB}.Release|x86.Build.0 = Release|Win32
+		{776142CB-BB64-482B-90DC-160ED893F854}.Debug|x64.ActiveCfg = Debug|x64
+		{776142CB-BB64-482B-90DC-160ED893F854}.Debug|x64.Build.0 = Debug|x64
+		{776142CB-BB64-482B-90DC-160ED893F854}.Debug|x86.ActiveCfg = Debug|Win32
+		{776142CB-BB64-482B-90DC-160ED893F854}.Debug|x86.Build.0 = Debug|Win32
+		{776142CB-BB64-482B-90DC-160ED893F854}.Release|x64.ActiveCfg = Release|x64
+		{776142CB-BB64-482B-90DC-160ED893F854}.Release|x64.Build.0 = Release|x64
+		{776142CB-BB64-482B-90DC-160ED893F854}.Release|x86.ActiveCfg = Release|Win32
+		{776142CB-BB64-482B-90DC-160ED893F854}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
