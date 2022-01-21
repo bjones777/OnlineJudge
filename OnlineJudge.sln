@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IsItATree_615", "IsItATree_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TreeRecovery536", "TreeRecovery536\TreeRecovery536.vcxproj", "{04577104-1AED-4352-99D0-259BE1448378}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RobotMotion10116", "RobotMotion10116\RobotMotion10116.vcxproj", "{DD999433-EED0-4F6F-892F-40308DC38148}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{04577104-1AED-4352-99D0-259BE1448378}.Release|x64.Build.0 = Release|x64
 		{04577104-1AED-4352-99D0-259BE1448378}.Release|x86.ActiveCfg = Release|Win32
 		{04577104-1AED-4352-99D0-259BE1448378}.Release|x86.Build.0 = Release|Win32
+		{DD999433-EED0-4F6F-892F-40308DC38148}.Debug|x64.ActiveCfg = Debug|x64
+		{DD999433-EED0-4F6F-892F-40308DC38148}.Debug|x64.Build.0 = Debug|x64
+		{DD999433-EED0-4F6F-892F-40308DC38148}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD999433-EED0-4F6F-892F-40308DC38148}.Debug|x86.Build.0 = Debug|Win32
+		{DD999433-EED0-4F6F-892F-40308DC38148}.Release|x64.ActiveCfg = Release|x64
+		{DD999433-EED0-4F6F-892F-40308DC38148}.Release|x64.Build.0 = Release|x64
+		{DD999433-EED0-4F6F-892F-40308DC38148}.Release|x86.ActiveCfg = Release|Win32
+		{DD999433-EED0-4F6F-892F-40308DC38148}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

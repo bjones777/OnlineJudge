@@ -34,7 +34,7 @@ public:
 private:
 	int NumRows;
 	int NumColumns;
-	vector<int> Data;
+	vector<T> Data;
 };
 
 class Graph
