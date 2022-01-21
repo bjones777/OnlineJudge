@@ -103,7 +103,11 @@ int main()
             break;
         }
         bool isTree = IsTree(cin,s,e);
-        cout << "Case " << TC << " is ";        if(!isTree)        {            cout << "not ";        }
+        cout << "Case " << TC << " is ";
+        if(!isTree)
+        {
+            cout << "not ";
+        }
         cout << "a tree.\n";
     }
     return 0;
