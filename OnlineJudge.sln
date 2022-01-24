@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RobotMotion10116", "RobotMo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Subway10389", "Subway10389\Subway10389.vcxproj", "{47ADBAD8-7C7C-4E80-B805-F48621A1264D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Popes957", "Popes957\Popes957.vcxproj", "{463195B8-1426-40E8-9CB4-4909FBCECEE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{47ADBAD8-7C7C-4E80-B805-F48621A1264D}.Release|x64.Build.0 = Release|x64
 		{47ADBAD8-7C7C-4E80-B805-F48621A1264D}.Release|x86.ActiveCfg = Release|Win32
 		{47ADBAD8-7C7C-4E80-B805-F48621A1264D}.Release|x86.Build.0 = Release|Win32
+		{463195B8-1426-40E8-9CB4-4909FBCECEE8}.Debug|x64.ActiveCfg = Debug|x64
+		{463195B8-1426-40E8-9CB4-4909FBCECEE8}.Debug|x64.Build.0 = Debug|x64
+		{463195B8-1426-40E8-9CB4-4909FBCECEE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{463195B8-1426-40E8-9CB4-4909FBCECEE8}.Debug|x86.Build.0 = Debug|Win32
+		{463195B8-1426-40E8-9CB4-4909FBCECEE8}.Release|x64.ActiveCfg = Release|x64
+		{463195B8-1426-40E8-9CB4-4909FBCECEE8}.Release|x64.Build.0 = Release|x64
+		{463195B8-1426-40E8-9CB4-4909FBCECEE8}.Release|x86.ActiveCfg = Release|Win32
+		{463195B8-1426-40E8-9CB4-4909FBCECEE8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
