@@ -69,7 +69,7 @@ int Graph10356::FindMinPath(int start, int end)
     const int VISITED_RIDING = 2;
     vector<int> Visited(N, 0);
     priority_queue<Entry, vector<Entry>, greater<Entry>> pq;
-    pq.push(Entry(false,0,0));
+    pq.push(Entry(false,0,start));
     while(!pq.empty())
     {
         Entry e = pq.top();
