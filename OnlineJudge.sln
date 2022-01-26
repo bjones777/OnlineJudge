@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnagramChecker148", "Anagra
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerCrisis151", "PowerCrisis151\PowerCrisis151.vcxproj", "{B90C563E-26B3-40E7-8B5D-4C48C4FBC2F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftwareCRC128", "SoftwareCRC128\SoftwareCRC128.vcxproj", "{39A776B5-A7A7-4487-93EE-CEB55CDC6FBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{B90C563E-26B3-40E7-8B5D-4C48C4FBC2F2}.Release|x64.Build.0 = Release|x64
 		{B90C563E-26B3-40E7-8B5D-4C48C4FBC2F2}.Release|x86.ActiveCfg = Release|Win32
 		{B90C563E-26B3-40E7-8B5D-4C48C4FBC2F2}.Release|x86.Build.0 = Release|Win32
+		{39A776B5-A7A7-4487-93EE-CEB55CDC6FBF}.Debug|x64.ActiveCfg = Debug|x64
+		{39A776B5-A7A7-4487-93EE-CEB55CDC6FBF}.Debug|x64.Build.0 = Debug|x64
+		{39A776B5-A7A7-4487-93EE-CEB55CDC6FBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{39A776B5-A7A7-4487-93EE-CEB55CDC6FBF}.Debug|x86.Build.0 = Debug|Win32
+		{39A776B5-A7A7-4487-93EE-CEB55CDC6FBF}.Release|x64.ActiveCfg = Release|x64
+		{39A776B5-A7A7-4487-93EE-CEB55CDC6FBF}.Release|x64.Build.0 = Release|x64
+		{39A776B5-A7A7-4487-93EE-CEB55CDC6FBF}.Release|x86.ActiveCfg = Release|Win32
+		{39A776B5-A7A7-4487-93EE-CEB55CDC6FBF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
