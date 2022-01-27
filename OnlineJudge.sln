@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftwareCRC128", "SoftwareC
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Anagram195", "Anagram195\Anagram195.vcxproj", "{A2425B68-10FA-45B4-9468-DCCA00942E3B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Audiophobia10048", "Audiophobia10048\Audiophobia10048.vcxproj", "{BD78BD61-A671-4187-8514-BB56F3B693F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{A2425B68-10FA-45B4-9468-DCCA00942E3B}.Release|x64.Build.0 = Release|x64
 		{A2425B68-10FA-45B4-9468-DCCA00942E3B}.Release|x86.ActiveCfg = Release|Win32
 		{A2425B68-10FA-45B4-9468-DCCA00942E3B}.Release|x86.Build.0 = Release|Win32
+		{BD78BD61-A671-4187-8514-BB56F3B693F9}.Debug|x64.ActiveCfg = Debug|x64
+		{BD78BD61-A671-4187-8514-BB56F3B693F9}.Debug|x64.Build.0 = Debug|x64
+		{BD78BD61-A671-4187-8514-BB56F3B693F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD78BD61-A671-4187-8514-BB56F3B693F9}.Debug|x86.Build.0 = Debug|Win32
+		{BD78BD61-A671-4187-8514-BB56F3B693F9}.Release|x64.ActiveCfg = Release|x64
+		{BD78BD61-A671-4187-8514-BB56F3B693F9}.Release|x64.Build.0 = Release|x64
+		{BD78BD61-A671-4187-8514-BB56F3B693F9}.Release|x86.ActiveCfg = Release|Win32
+		{BD78BD61-A671-4187-8514-BB56F3B693F9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
