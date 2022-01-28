@@ -75,7 +75,8 @@ int main()
         }
         else
         {
-            cout << t << " is incorrect.\n";        }
+            cout << t << " is incorrect.\n";
+        }
     }
     return 0;    
 }
