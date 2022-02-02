@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "APlugForUNIX753", "APlugFor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeavyCargo544", "HeavyCargo544\HeavyCargo544.vcxproj", "{10F2E49C-8900-4836-B1BD-867390AA9E90}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tree548", "Tree548\Tree548.vcxproj", "{F3883C10-9E19-4A4A-95BB-58D174C16EC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{10F2E49C-8900-4836-B1BD-867390AA9E90}.Release|x64.Build.0 = Release|x64
 		{10F2E49C-8900-4836-B1BD-867390AA9E90}.Release|x86.ActiveCfg = Release|Win32
 		{10F2E49C-8900-4836-B1BD-867390AA9E90}.Release|x86.Build.0 = Release|Win32
+		{F3883C10-9E19-4A4A-95BB-58D174C16EC6}.Debug|x64.ActiveCfg = Debug|x64
+		{F3883C10-9E19-4A4A-95BB-58D174C16EC6}.Debug|x64.Build.0 = Debug|x64
+		{F3883C10-9E19-4A4A-95BB-58D174C16EC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3883C10-9E19-4A4A-95BB-58D174C16EC6}.Debug|x86.Build.0 = Debug|Win32
+		{F3883C10-9E19-4A4A-95BB-58D174C16EC6}.Release|x64.ActiveCfg = Release|x64
+		{F3883C10-9E19-4A4A-95BB-58D174C16EC6}.Release|x64.Build.0 = Release|x64
+		{F3883C10-9E19-4A4A-95BB-58D174C16EC6}.Release|x86.ActiveCfg = Release|Win32
+		{F3883C10-9E19-4A4A-95BB-58D174C16EC6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
