@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tree548", "Tree548\Tree548.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Squares_III_636", "Squares_III_636\Squares_III_636.vcxproj", "{BBA6F085-8EC7-44B3-BD06-53D6462C7429}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SchedulingLectures607", "SchedulingLectures607\SchedulingLectures607.vcxproj", "{2B9D3D99-1D5F-4C4B-971D-B4602C1E1EFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -401,6 +403,14 @@ Global
 		{BBA6F085-8EC7-44B3-BD06-53D6462C7429}.Release|x64.Build.0 = Release|x64
 		{BBA6F085-8EC7-44B3-BD06-53D6462C7429}.Release|x86.ActiveCfg = Release|Win32
 		{BBA6F085-8EC7-44B3-BD06-53D6462C7429}.Release|x86.Build.0 = Release|Win32
+		{2B9D3D99-1D5F-4C4B-971D-B4602C1E1EFF}.Debug|x64.ActiveCfg = Debug|x64
+		{2B9D3D99-1D5F-4C4B-971D-B4602C1E1EFF}.Debug|x64.Build.0 = Debug|x64
+		{2B9D3D99-1D5F-4C4B-971D-B4602C1E1EFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B9D3D99-1D5F-4C4B-971D-B4602C1E1EFF}.Debug|x86.Build.0 = Debug|Win32
+		{2B9D3D99-1D5F-4C4B-971D-B4602C1E1EFF}.Release|x64.ActiveCfg = Release|x64
+		{2B9D3D99-1D5F-4C4B-971D-B4602C1E1EFF}.Release|x64.Build.0 = Release|x64
+		{2B9D3D99-1D5F-4C4B-971D-B4602C1E1EFF}.Release|x86.ActiveCfg = Release|Win32
+		{2B9D3D99-1D5F-4C4B-971D-B4602C1E1EFF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
