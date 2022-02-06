@@ -322,5 +322,6 @@ int main()
         cout << "Equation #" << TC << '\n';
         go(line);
     }
+    return 0;
 }
 
